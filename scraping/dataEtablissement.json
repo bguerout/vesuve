@@ -1,0 +1,835 @@
+[
+  {
+    "uai": "0061211J",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0061211J@ac-nice.fr",
+    "telephone": "04 93 64 44 45",
+    "adresse": "Avenue De l'hôpital  -  VallaurisAcadémie"
+  },
+  {
+    "uai": "0271631B",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0271631B@ac-rouen.fr",
+    "telephone": "02 32 27 05 75",
+    "adresse": "42 route de Saint-Paër  -  GisorsAcadémie"
+  },
+  {
+    "uai": "0311915N",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0311915N@ac-toulouse.fr",
+    "telephone": "05 62 20 72 80",
+    "adresse": "1 CHEMIN DE MAILHEAUX  -  FrouzinsAcadémie"
+  },
+  {
+    "uai": "0331880P",
+    "nom_entreprise": "Collège Pablo Neruda",
+    "email": "ce.0331880P@ac-bordeaux.frSite WEB",
+    "telephone": "05 56 85 96 04",
+    "adresse": "1 chemin DE MUSSONVILLE  -  BèglesAcadémie"
+  },
+  {
+    "uai": "0370767H",
+    "nom_entreprise": "Collège Pablo Neruda",
+    "email": "ce.0370767H@ac-orleans-tours.fr",
+    "telephone": "02 47 44 02 62",
+    "adresse": "27 rue du 23 Février 1950  -  Saint-Pierre-des-CorpsAcadémie"
+  },
+  {
+    "uai": "0382044R",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0382044R@ac-grenoble.frSite WEB",
+    "telephone": "04 76 33 36 58",
+    "adresse": "4 rue PABLO PICASSO  -  EchirollesAcadémie"
+  },
+  {
+    "uai": "0451148D",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0451148D@ac-orleans-tours.fr",
+    "telephone": "02 38 93 01 99",
+    "adresse": "41 rue Voltaire  -  Châlette-sur-LoingAcadémie"
+  },
+  {
+    "uai": "0594392D",
+    "nom_entreprise": "Collège Pablo Néruda",
+    "email": "ce.0594392D@ac-lille.frSite WEB",
+    "telephone": "03 20 75 69 08",
+    "adresse": "99 rue DE LA BOUTILLERIE  -  WattrelosAcadémie"
+  },
+  {
+    "uai": "0622084D",
+    "nom_entreprise": "Collège Pablo Neruda",
+    "email": "ce.0622084D@ac-lille.frSite WEB",
+    "telephone": "03 21 50 14 63",
+    "adresse": "Route de Brebières  -  Vitry-en-ArtoisAcadémie"
+  },
+  {
+    "uai": "0692576A",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0692576A@ac-lyon.fr",
+    "telephone": "04 78 41 03 79",
+    "adresse": "17 rue DE REIMS  -  BronAcadémie"
+  },
+  {
+    "uai": "0762129B",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0762129B@ac-rouen.fr",
+    "telephone": "02 35 45 44 45",
+    "adresse": "Rue Friedrich Engels  -  HarfleurAcadémie"
+  },
+  {
+    "uai": "0762133F",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0762133F@ac-rouen.fr",
+    "telephone": "02 35 65 14 90",
+    "adresse": "Rue Félix Faure  -  Saint-Etienne-du-RouvrayAcadémie"
+  },
+  {
+    "uai": "0772330P",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0772330P@ac-creteil.fr",
+    "telephone": "01 64 73 16 00",
+    "adresse": "10 place PABLO PICASSO  -  Champs-sur-MarneAcadémie"
+  },
+  {
+    "uai": "0780578E",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0780578E@ac-versailles.fr",
+    "telephone": "01 39 52 22 92",
+    "adresse": "25 rue Charles Constantin  -  MontessonAcadémie"
+  },
+  {
+    "uai": "0911029Z",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0911029Z@ac-versailles.fr",
+    "telephone": "01 64 48 86 26",
+    "adresse": "32 rue du Pont Neuf  -  Saulx-les-ChartreuxAcadémie"
+  },
+  {
+    "uai": "0911253T",
+    "nom_entreprise": "Collège Pablo Neruda",
+    "email": "ce.0911253",
+    "telephone": "01 69 06 69 00",
+    "adresse": "4 venelle Louise Michel  -  GrignyAcadémie"
+  },
+  {
+    "uai": "0911490A",
+    "nom_entreprise": "Collège Pablo Neruda",
+    "email": "ce.0911490A@ac-versailles.fr",
+    "telephone": "01 60 84 42 45",
+    "adresse": "2 avenue des Cigognes  -  Brétigny-sur-OrgeAcadémie"
+  },
+  {
+    "uai": "0930858C",
+    "nom_entreprise": "Collège Pablo Néruda",
+    "email": "ce.0930858C@ac-creteil.fr",
+    "telephone": "01 43 81 92 31",
+    "adresse": "16 rue DE FRANCEVILLE  -  GagnyAcadémie"
+  },
+  {
+    "uai": "0931224A",
+    "nom_entreprise": "Collège Pablo Néruda",
+    "email": "ce.0931224A@ac-creteil.fr",
+    "telephone": "01 49 40 14 94",
+    "adresse": "9 rue AUDENET  -  Pierrefitte-sur-SeineAcadémie"
+  },
+  {
+    "uai": "0931226C",
+    "nom_entreprise": "Collège Pablo Néruda",
+    "email": "ce.0931226C@ac-creteil.fr",
+    "telephone": "01 86 78 36 70",
+    "adresse": "17 rue DES HULEUX  -  StainsAcadémie"
+  },
+  {
+    "uai": "0931379U",
+    "nom_entreprise": "Collège Pablo Néruda",
+    "email": "ce.0931379U@ac-creteil.fr",
+    "telephone": "01 86 78 31 80",
+    "adresse": "4 rue DU DR FLEMING  -  Aulnay-sous-BoisAcadémie"
+  },
+  {
+    "uai": "0931707A",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0931707A@ac-creteil.fr",
+    "telephone": "01 43 88 32 00",
+    "adresse": "59 rue DU LAVOIR  -  MontfermeilAcadémie"
+  },
+  {
+    "uai": "0951098C",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0951098C@ac-versailles.fr",
+    "telephone": "01 39 86 71 16",
+    "adresse": "202 avenue Stalingrad  -  Garges-lès-GonesseAcadémie"
+  },
+  {
+    "uai": "0951194G",
+    "nom_entreprise": "Collège Pablo Picasso",
+    "email": "ce.0951194G@ac-versailles.fr",
+    "telephone": "01 34 64 23 03",
+    "adresse": "Rue de l'Ormetteau  -  EragnyAcadémie"
+  },
+  {
+    "uai": "0240028A",
+    "nom_entreprise": "Lycée professionnel Pablo Picasso",
+    "email": "ce.0240028A@ac-bordeaux.frSite WEB",
+    "telephone": "05 53 35 56 00",
+    "adresse": "64 avenue Georges Pompidou  -  PérigueuxAcadémie"
+  },
+  {
+    "uai": "0441656L",
+    "nom_entreprise": "Lycée professionnel Pablo Neruda",
+    "email": "ce.0441656L@ac-nantes.frSite WEB",
+    "telephone": "02 40 32 02 49",
+    "adresse": "RUE PABLO NERUDA  -  BouguenaisAcadémie"
+  },
+  {
+    "uai": "0541796J",
+    "nom_entreprise": "Ecole primaire Pablo Picasso",
+    "email": "ce.0541796J@ac-nancy-metz.fr",
+    "telephone": "03 82 33 12 58",
+    "adresse": "Rue Gabriel Péri  -  JarnyAcadémie"
+  },
+  {
+    "uai": "0620027T",
+    "nom_entreprise": "Lycée polyvalent Pablo Picasso",
+    "email": "ce.0620027",
+    "telephone": "03 21 67 64 24",
+    "adresse": "2 boulevard Anatole France  -  AvionAcadémie"
+  },
+  {
+    "uai": "0660014G",
+    "nom_entreprise": "Lycée polyvalent Pablo Picasso",
+    "email": "ce.0660014G@ac-montpellier.fr",
+    "telephone": "04 68 50 04 13",
+    "adresse": "120 avenue GENERAL JEAN GILLES  -  PerpignanAcadémie"
+  },
+  {
+    "uai": "0701110B",
+    "nom_entreprise": "Ecole primaire Pablo Picasso",
+    "email": "ce.0701110B@ac-besancon.fr",
+    "telephone": "03 84 75 24 79",
+    "adresse": "Rue des Frères Lumière  -  VesoulAcadémie"
+  },
+  {
+    "uai": "0132355P",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0132355P@ac-aix-marseille.fr",
+    "telephone": "04 42 85 45 63",
+    "adresse": "36 avenue Henri Barbusse  -  Berre-l'EtangAcadémie"
+  },
+  {
+    "uai": "0132382U",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0132382U@ac-aix-marseille.fr",
+    "telephone": "04 42 85 31 15",
+    "adresse": "Avenue Henri Barbusse  -  Berre-l'EtangAcadémie"
+  },
+  {
+    "uai": "0133097W",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0133097W@ac-aix-marseille.fr",
+    "telephone": "04 42 79 07 64",
+    "adresse": "4 rue de la Bargelade  -  VitrollesAcadémie"
+  },
+  {
+    "uai": "0160773D",
+    "nom_entreprise": "Ecole élémentaire  Pablo Picasso",
+    "email": "ce.0160773D@ac-poitiers.fr",
+    "telephone": "05 45 32 19 74",
+    "adresse": "12 rue de la Commanderie  -  ChâteaubernardAcadémie"
+  },
+  {
+    "uai": "0261256Z",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0261256Z@ac-grenoble.fr",
+    "telephone": "04 75 03 20 95",
+    "adresse": "Place du Champ de Mars  -  Saint-Barthélemy-de-ValsAcadémie"
+  },
+  {
+    "uai": "0270071F",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0270071F@ac-rouen.fr",
+    "telephone": "02 32 33 09 06",
+    "adresse": "9 rue Cité Nouvelle  -  EvreuxAcadémie"
+  },
+  {
+    "uai": "0332452L",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0332452L@ac-bordeaux.fr",
+    "telephone": "05 56 80 24 46",
+    "adresse": "1 rue Alfred de Musset  -  TalenceAcadémie"
+  },
+  {
+    "uai": "0340950Y",
+    "nom_entreprise": "Ecole maternelle Pablo Neruda",
+    "email": "ce.0340950Y@ac-montpellier.fr",
+    "telephone": "04 67 75 42 26",
+    "adresse": "53 rue de la Salamanque  -  MontpellierAcadémie"
+  },
+  {
+    "uai": "0341571Y",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0341571Y@ac-montpellier.fr",
+    "telephone": "04 67 40 06 97",
+    "adresse": "35 avenue Guilhem de Poitiers  -  MontpellierAcadémie"
+  },
+  {
+    "uai": "0591955E",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0591955E@ac-lille.fr",
+    "telephone": "03 27 36 16 22",
+    "adresse": "78 rue Victor Hugo  -  OnnaingAcadémie"
+  },
+  {
+    "uai": "0592502Z",
+    "nom_entreprise": "Ecole primaire Pablo Picasso",
+    "email": "ce.0592502Z@ac-lille.fr",
+    "telephone": "03 20 84 37 97",
+    "adresse": "26 place de la Mairie  -  WannehainAcadémie"
+  },
+  {
+    "uai": "0596507C",
+    "nom_entreprise": "Ecole primaire Pablo Picasso",
+    "email": "ce.0596507C@ac-lille.fr",
+    "telephone": "03 20 05 54 41",
+    "adresse": "Rue du Pavé Bleu  -  Villeneuve-d'AscqAcadémie"
+  },
+  {
+    "uai": "0601858U",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0601858U@ac-amiens.fr",
+    "telephone": "03 44 84 71 09",
+    "adresse": "60 rue Simone Signoret  -  BeauvaisAcadémie"
+  },
+  {
+    "uai": "0650790F",
+    "nom_entreprise": "Ecole maternelle Pablo Néruda",
+    "email": "ce.0650790F@ac-toulouse.fr",
+    "telephone": "05 62 93 09 41",
+    "adresse": "2 rue Erik Satie  -  TarbesAcadémie"
+  },
+  {
+    "uai": "0660180M",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0660180M@ac-montpellier.fr",
+    "telephone": "04 68 87 04 24",
+    "adresse": "16 avenue Francesc Irla  -  CéretAcadémie"
+  },
+  {
+    "uai": "0660760T",
+    "nom_entreprise": "Ecole élémentaire Pablo Casals",
+    "email": "ce.0660760",
+    "telephone": "04 68 28 26 77",
+    "adresse": "12 avenue Pablo Casals  -  Saint-Laurent-de-la-SalanqueAcadémie"
+  },
+  {
+    "uai": "0660797H",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0660797H@ac-montpellier.fr",
+    "telephone": "04 68 85 00 87",
+    "adresse": "32 rue des Tuileries  -  PerpignanAcadémie"
+  },
+  {
+    "uai": "0671433U",
+    "nom_entreprise": "Ecole primaire Pablo Picasso",
+    "email": "ce.0671433U@ac-strasbourg.fr",
+    "telephone": "03 88 95 29 54",
+    "adresse": "Square Saint-Charles  -  ObernaiAcadémie"
+  },
+  {
+    "uai": "0691707F",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0691707F@ac-lyon.fr",
+    "telephone": "04 78 51 40 99",
+    "adresse": "21 avenue de Haute Roche  -  Pierre-BéniteAcadémie"
+  },
+  {
+    "uai": "0691825J",
+    "nom_entreprise": "Ecole élémentaire Pablo Neruda",
+    "email": "ce.0691825J@ac-lyon.fr",
+    "telephone": "04 72 37 70 33",
+    "adresse": "19 avenue Roger Salengro  -  Vaulx-en-VelinAcadémie"
+  },
+  {
+    "uai": "0691869G",
+    "nom_entreprise": "Ecole maternelle Pablo Neruda",
+    "email": "ce.0691869G@ac-lyon.fr",
+    "telephone": "04 72 37 67 66",
+    "adresse": "19 avenue Roger Salengro  -  Vaulx-en-VelinAcadémie"
+  },
+  {
+    "uai": "0692752S",
+    "nom_entreprise": "Ecole primaire Pablo Neruda",
+    "email": "ce.0692752S@ac-lyon.fr",
+    "telephone": "04 78 20 29 66",
+    "adresse": "Rue Alain Fournier  -  Saint-PriestAcadémie"
+  },
+  {
+    "uai": "0711460B",
+    "nom_entreprise": "Ecole maternelle Pablo Neruda",
+    "email": "ce.0711460B@ac-dijon.fr",
+    "telephone": "03 85 46 03 21",
+    "adresse": "1  RUE EDGAR VARESE  -  Chalon-sur-SaôneAcadémie"
+  },
+  {
+    "uai": "0711509E",
+    "nom_entreprise": "Ecole primaire Pablo Neruda",
+    "email": "ce.0711509E@ac-dijon.fr",
+    "telephone": "03 85 46 39 23",
+    "adresse": "1  RUE EDGAR VARESE  -  Chalon-sur-SaôneAcadémie"
+  },
+  {
+    "uai": "0761880F",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0761880F@ac-rouen.fr",
+    "telephone": "02 35 31 00 18",
+    "adresse": "6 rue Calmette et Guérin  -  BolbecAcadémie"
+  },
+  {
+    "uai": "0762207L",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0762207L@ac-rouen.fr",
+    "telephone": "02 35 67 66 77",
+    "adresse": "Rue de Seelze  -  Grand-CouronneAcadémie"
+  },
+  {
+    "uai": "0762235S",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0762235S@ac-rouen.fr",
+    "telephone": "02 35 67 66 47",
+    "adresse": "Rue de Seelze  -  Grand-CouronneAcadémie"
+  },
+  {
+    "uai": "0762237U",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0762237U@ac-rouen.fr",
+    "telephone": "02 35 62 00 36",
+    "adresse": "27 rue Pablo Neruda  -  Le Petit-QuevillyAcadémie"
+  },
+  {
+    "uai": "0771481S",
+    "nom_entreprise": "Ecole maternelle Pablo Neruda",
+    "email": "ce.0771481S@ac-creteil.fr",
+    "telephone": "01 70 05 46 20",
+    "adresse": "82 rue de l'Orme au Charron  -  Pontault-CombaultAcadémie"
+  },
+  {
+    "uai": "0771942T",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0771942",
+    "telephone": "01 60 06 37 32",
+    "adresse": "Allée des Noyers  -  Champs-sur-MarneAcadémie"
+  },
+  {
+    "uai": "0771943U",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0771943U@ac-creteil.fr",
+    "telephone": "01 64 68 32 51",
+    "adresse": "Allée des Noyers  -  Champs-sur-MarneAcadémie"
+  },
+  {
+    "uai": "0772213M",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0772213M@ac-creteil.fr",
+    "telephone": "01 70 05 46 46",
+    "adresse": "98 rue Robespierre  -  Pontault-CombaultAcadémie"
+  },
+  {
+    "uai": "0772233J",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0772233J@ac-creteil.fr",
+    "telephone": "01 70 05 46 28",
+    "adresse": "98 rue Robespierre  -  Pontault-CombaultAcadémie"
+  },
+  {
+    "uai": "0781197C",
+    "nom_entreprise": "Ecole élémentaire Pablo Neruda",
+    "email": "ce.0781197C@ac-versailles.fr",
+    "telephone": "01 39 14 79 94",
+    "adresse": "05 rue Fernand Leger  -  SartrouvilleAcadémie"
+  },
+  {
+    "uai": "0781198D",
+    "nom_entreprise": "Ecole maternelle Pablo Neruda",
+    "email": "ce.0781198D@ac-versailles.fr",
+    "telephone": "01 39 14 00 91",
+    "adresse": "07 rue Fernand Leger  -  SartrouvilleAcadémie"
+  },
+  {
+    "uai": "0831063E",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0831063E@ac-nice.fr",
+    "telephone": "04 94 78 60 77",
+    "adresse": "Route de Cauron  -  Nans-les-PinsAcadémie"
+  },
+  {
+    "uai": "0861108M",
+    "nom_entreprise": "Ecole maternelle Pablo Neruda",
+    "email": "ce.0861108M@ac-poitiers.fr",
+    "telephone": "05 49 61 03 92",
+    "adresse": "7 boulevard Saint-Just  -  PoitiersAcadémie"
+  },
+  {
+    "uai": "0861114U",
+    "nom_entreprise": "Ecole Elémentaire Pablo Néruda",
+    "email": "ce.0861114U@ac-poitiers.fr",
+    "telephone": "05 49 61 25 10",
+    "adresse": "7 bis boulevard Saint-Just  -  PoitiersAcadémie"
+  },
+  {
+    "uai": "0910339Z",
+    "nom_entreprise": "Ecole élémentaire Pablo Neruda",
+    "email": "ce.0910339Z@ac-versailles.fr",
+    "telephone": "06 71 27 54 77",
+    "adresse": "Chemin Pablo Neruda  -  Gometz-le-ChâtelAcadémie"
+  },
+  {
+    "uai": "0910440J",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0910440J@ac-versailles.fr",
+    "telephone": "01 69 46 00 98",
+    "adresse": "Allée Pablo Picasso  -  Saint-Michel-sur-OrgeAcadémie"
+  },
+  {
+    "uai": "0910794U",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0910794U@ac-versailles.fr",
+    "telephone": "01 69 06 12 13",
+    "adresse": "13 rue du Château d'Eau  -  Ris-OrangisAcadémie"
+  },
+  {
+    "uai": "0911376B",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0911376B@ac-versailles.fr",
+    "telephone": "01 69 46 00 97",
+    "adresse": "Allée Pablo Picasso  -  Saint-Michel-sur-OrgeAcadémie"
+  },
+  {
+    "uai": "0911380F",
+    "nom_entreprise": "Ecole maternelle Pablo Neruda",
+    "email": "ce.0911380F@ac-versailles.fr",
+    "telephone": "01 60 12 00 26",
+    "adresse": "Chemin Pablo Neruda  -  Gometz-le-ChâtelAcadémie"
+  },
+  {
+    "uai": "0911520H",
+    "nom_entreprise": "Ecole Elémentaire Pablo Picasso",
+    "email": "ce.0911520H@ac-versailles.fr",
+    "telephone": "01 60 88 45 83",
+    "adresse": "5 rue Picasso  -  Corbeil-EssonnesAcadémie"
+  },
+  {
+    "uai": "0911730L",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0911730L@ac-versailles.fr",
+    "telephone": "01 64 93 17 40",
+    "adresse": "Avenue du 19 Mars 1962  -  IttevilleAcadémie"
+  },
+  {
+    "uai": "0930322V",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0930322V@ac-creteil.fr",
+    "telephone": "01 48 95 39 34",
+    "adresse": "105 avenue Jean Jaurès  -  DrancyAcadémie"
+  },
+  {
+    "uai": "0931888X",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0931888X@ac-creteil.fr",
+    "telephone": "01 48 59 92 11",
+    "adresse": "4-6 place du 14 juillet  -  MontreuilAcadémie"
+  },
+  {
+    "uai": "0941337T",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso",
+    "email": "ce.0941337",
+    "telephone": "01 45 99 51 94",
+    "adresse": "5 avenue de Valenton  -  Limeil-BrévannesAcadémie"
+  },
+  {
+    "uai": "0951180S",
+    "nom_entreprise": "Ecole primaire Pablo Neruda",
+    "email": "ce.0951180S@ac-versailles.fr",
+    "telephone": "01 30 36 46 91",
+    "adresse": "Chemin de l'Eglise  -  Méry-sur-OiseAcadémie"
+  },
+  {
+    "uai": "0951249S",
+    "nom_entreprise": "Ecole élémentaire Pablo Neruda",
+    "email": "ce.0951249S@ac-versailles.fr",
+    "telephone": "01 34 64 56 70",
+    "adresse": "221 boulevard des Aviateurs Alli  -  EragnyAcadémie"
+  },
+  {
+    "uai": "0951258B",
+    "nom_entreprise": "Ecole maternelle Pablo Neruda",
+    "email": "ce.0951258B@ac-versailles.fr",
+    "telephone": "01 34 64 51 88",
+    "adresse": "221 boulevard des Aviateurs Alli  -  EragnyAcadémie"
+  },
+  {
+    "uai": "0312296C",
+    "nom_entreprise": "Ecole primaire publique Pablo Picasso",
+    "email": "ce.0312296C@ac-toulouse.fr",
+    "telephone": "05 61 78 76 33",
+    "adresse": "Boulevard Goya  -  TournefeuilleAcadémie"
+  },
+  {
+    "uai": "0350577M",
+    "nom_entreprise": "Ecole élémentaire publique Pablo Picasso",
+    "email": "ecole.0350577M@ac-rennes.fr",
+    "telephone": "02 99 43 15 47",
+    "adresse": "21 rue Jean-Baptiste Hanet  -  ThourieAcadémie"
+  },
+  {
+    "uai": "0350603R",
+    "nom_entreprise": "Ecole élémentaire publique Pablo Picasso",
+    "email": "ecole.0350603R@ac-rennes.fr",
+    "telephone": "02 57 21 30 79",
+    "adresse": "13 rue Philippe Nordmann  -  RennesAcadémie"
+  },
+  {
+    "uai": "0351776R",
+    "nom_entreprise": "Ecole maternelle publique Pablo Picasso",
+    "email": "ecole.0351776R@ac-rennes.fr",
+    "telephone": "02 57 21 30 80",
+    "adresse": "11 rue Philippe Nordmann  -  RennesAcadémie"
+  },
+  {
+    "uai": "0490129Z",
+    "nom_entreprise": "Ecole maternelle publique Pablo Picasso",
+    "email": "ce.0490129Z@ac-nantes.fr",
+    "telephone": "02 41 55 33 28",
+    "adresse": "2 rue Jean Moulin  -  SèvremoineAcadémie"
+  },
+  {
+    "uai": "0530336C",
+    "nom_entreprise": "Ecole primaire publique Pablo Picasso",
+    "email": "ce.0530336C@ac-nantes.fr",
+    "telephone": "02 43 98 38 37",
+    "adresse": "10 rue des Ecoles  -  Montigné-le-BrillantAcadémie"
+  },
+  {
+    "uai": "0561372M",
+    "nom_entreprise": "Ecole maternelle publique Pablo Picasso",
+    "email": "ec.0561372m@ac-rennes.fr",
+    "telephone": "06 31 36 37 32",
+    "adresse": "1  RUE JEAN LE COUTALLER  -  LanesterAcadémie"
+  },
+  {
+    "uai": "0561418M",
+    "nom_entreprise": "Ecole élémentaire publique Pablo Picasso",
+    "email": "ec.0561418m@ac-rennes.fr",
+    "telephone": "02 97 76 08 08",
+    "adresse": "1 rue Jean LE COUTALLER  -  LanesterAcadémie"
+  },
+  {
+    "uai": "0561519X",
+    "nom_entreprise": "Ecole primaire publique Pablo Picasso",
+    "email": "ec.0561519x@ac-rennes.fr",
+    "telephone": "02 97 74 87 20",
+    "adresse": "3 allée du domaine de la porte  -  Val d'OustAcadémie"
+  },
+  {
+    "uai": "0720489R",
+    "nom_entreprise": "Ecole maternelle publique Pablo Picasso",
+    "email": "ce.0720489R@ac-nantes.fr",
+    "telephone": "02 43 72 86 28",
+    "adresse": "70 rue Gustave Courbet  -  Le MansAcadémie"
+  },
+  {
+    "uai": "0762169V",
+    "nom_entreprise": "Lycée général et technologique Pablo Neruda",
+    "email": "ce.0762169V@ac-rouen.fr",
+    "telephone": "02 35 06 55 00",
+    "adresse": "Chemin des Bruyères  -  DieppeAcadémie"
+  },
+  {
+    "uai": "0921815Y",
+    "nom_entreprise": "Ecole primaire publique Pablo Neruda",
+    "email": "ce.0921815Y@ac-versailles.fr",
+    "telephone": "01 46 69 99 11",
+    "adresse": "18 rue Pablo Neruda  -  NanterreAcadémie"
+  },
+  {
+    "uai": "0922151N",
+    "nom_entreprise": "Ecole maternelle publique Pablo Picasso",
+    "email": "ce.0922151N@ac-versailles.fr",
+    "telephone": "01 56 38 05 42",
+    "adresse": "75 avenue Pablo Picasso  -  NanterreAcadémie"
+  },
+  {
+    "uai": "0922602D",
+    "nom_entreprise": "Ecole élémentaire publique Pablo Picasso",
+    "email": "ce.0922602D@ac-versailles.fr",
+    "telephone": "01 56 38 05 41",
+    "adresse": "75 avenue Pablo Picasso  -  NanterreAcadémie"
+  },
+  {
+    "uai": "0941347D",
+    "nom_entreprise": "Lycée général et technologique Pablo Picasso",
+    "email": "ce.0941347D@ac-creteil.fr",
+    "telephone": "01 48 76 26 73",
+    "adresse": "2 avenue PABLO PICASSO  -  Fontenay-sous-BoisAcadémie"
+  },
+  {
+    "uai": "9740364C",
+    "nom_entreprise": "Ecole élémentaire publique Pablo Picasso",
+    "email": "ce.9740364C@ac-reunion.fr",
+    "telephone": "02 62 49 50 25",
+    "adresse": "35 chemin Lenormand  -  Saint-PierreAcadémie"
+  },
+  {
+    "uai": "9740584S",
+    "nom_entreprise": "Ecole élémentaire publique Pablo Picasso",
+    "email": "ce.9740584S@ac-reunion.fr",
+    "telephone": "02 62 26 12 12",
+    "adresse": "1 rue du Luxembourg  -  Saint-LouisAcadémie"
+  },
+  {
+    "uai": "0170825E",
+    "nom_entreprise": "Ecole élémentaire Pablo Picasso Dompierre sur Mer",
+    "email": "ce.0170825E@ac-poitiers.fr",
+    "telephone": "05 46 35 31 43",
+    "adresse": "Rue Jules Ferry  -  Dompierre-sur-MerAcadémie"
+  },
+  {
+    "uai": "0931488M",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté Pablo Néruda",
+    "email": "ce.0931488M@ac-creteil.fr",
+    "telephone": "01 43 83 94 00",
+    "adresse": "4 rue DU DR FLEMING  -  Aulnay-sous-BoisAcadémie"
+  },
+  {
+    "uai": "0931543X",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté Pablo Néruda",
+    "email": "ce.0931543X@ac-creteil.fr",
+    "telephone": "01 55 83 08 40",
+    "adresse": "17  RUE DES HULEUX  -  StainsAcadémie"
+  },
+  {
+    "uai": "0931708B",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté Pablo Picasso",
+    "email": "ce.0931708B@ac-creteil.fr",
+    "telephone": "01 43 88 32 00",
+    "adresse": "59 RUE DU LAVOIR  -  MontfermeilAcadémie"
+  },
+  {
+    "uai": "0061338X",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté du Collège Pablo Picasso",
+    "email": "ce.0061338X@ac-nice.fr",
+    "telephone": "04 93 64 44 45",
+    "adresse": "Avenue de l'Hôpital  -  VallaurisAcadémie"
+  },
+  {
+    "uai": "0331881R",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté du Collège Pablo Neruda",
+    "email": "ce.0331881R@ac-bordeaux.fr",
+    "telephone": "05 56 85 96 04",
+    "adresse": "1 CHEMIN DE MUSSONVILLE  -  BèglesAcadémie"
+  },
+  {
+    "uai": "0371188R",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté du Collège Pablo Neruda",
+    "email": "ce.0371188R@ac-orleans-tours.fr",
+    "telephone": "02 47 44 02 62",
+    "adresse": "27 rue du 23 Février 1950  -  Saint-Pierre-des-CorpsAcadémie"
+  },
+  {
+    "uai": "0623338S",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté du Collège Pablo Neruda",
+    "email": "ce.0623338S@ac-lille.frSite WEB",
+    "telephone": "03 21 50 14 63",
+    "adresse": "Route de Brebières  -  Vitry-en-ArtoisAcadémie"
+  },
+  {
+    "uai": "0692577B",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté du Collège Pablo Picasso",
+    "email": "ce.0692577B@ac-lyon.fr",
+    "telephone": "04 78 41 03 79",
+    "adresse": "17 rue DE REIMS  -  BronAcadémie"
+  },
+  {
+    "uai": "0911030A",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté du Collège Pablo Picasso",
+    "email": "ce.0911030A@ac-versailles.fr",
+    "telephone": "01 64 48 86 26",
+    "adresse": "32 rue du Pont Neuf  -  Saulx-les-ChartreuxAcadémie"
+  },
+  {
+    "uai": "0911571N",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté du Collège Pablo Neruda",
+    "email": "ce.0911571N@ac-versailles.fr",
+    "telephone": "01 60 84 42 45",
+    "adresse": "2 avenue des Cigognes  -  Brétigny-sur-OrgeAcadémie"
+  },
+  {
+    "uai": "0951145D",
+    "nom_entreprise": "Section d'enseignement général et professionnel adapté du Collège Pablo Picasso",
+    "email": "ce.0951145D@ac-versailles.fr",
+    "telephone": "01 39 86 71 16",
+    "adresse": "202 avenue Stalingrad  -  Garges-lès-GonesseAcadémie"
+  },
+  {
+    "uai": "0951458U",
+    "nom_entreprise": "Institut thérapeutique éducatif et pédagogique PABLO FREIRE",
+    "email": "ce.0951458u@ac-versailles.fr",
+    "telephone": "01 30 30 71 91",
+    "adresse": "1 chemin DU PONT  -  MarinesAcadémie"
+  },
+  {
+    "uai": "0660015H",
+    "nom_entreprise": "Section d'enseignement professionnel, lycée polyvalent Pablo Picasso",
+    "email": "ce.0660014g@ac-montpellier.fr",
+    "telephone": "04 68 50 04 13",
+    "adresse": "120 avenue Général Jean Gilles  -  PerpignanAcadémie"
+  },
+  {
+    "uai": "0660907C",
+    "nom_entreprise": "Lycée technologique, annexe du lycée Pablo Picasso",
+    "email": "ce.0660907C@ac-montpellier.fr",
+    "telephone": "04 68 37 99 37",
+    "adresse": "Route Nationale 114  -  ThézaAcadémie"
+  },
+  {
+    "uai": "Lycée des métiers de l'électricité et de ses environnements connectés",
+    "nom_entreprise": "Lycée polyvalent Pablo Neruda",
+    "email": "ce.0382203N@ac-grenoble.frSite WEB",
+    "telephone": "04 76 25 07 22",
+    "adresse": "35 rue Henri Wallon  -  Saint-Martin-d'HèresAcadémie"
+  },
+  {
+    "uai": "Elsa Triolet",
+    "nom_entreprise": "Ecole élémentaire publique Pablo Neruda",
+    "email": "ce.0596626G@ac-lille.fr",
+    "telephone": "03 20 94 53 12",
+    "adresse": "Rue Pierre Brossolette  -  RoncqAcadémie"
+  },
+  {
+    "uai": "0140731U",
+    "nom_entreprise": "Ecole primaire Pablo Neruda",
+    "email": "ce.0140731U@ac-caen.fr",
+    "telephone": "02 31 80 26 67",
+    "adresse": "1 rue du Commandant Cousteau  -  AudrieuAcadémie"
+  },
+  {
+    "uai": "0330946Z",
+    "nom_entreprise": "Ecole élementaire du Bourg",
+    "email": "ce.0330946Z@ac-bordeaux.fr",
+    "telephone": "05 56 58 72 08",
+    "adresse": "225 avenue de la Gironde  -  Moulis-en-MédocAcadémie"
+  },
+  {
+    "uai": "0382306A",
+    "nom_entreprise": "Ecole maternelle Pablo Picasso",
+    "email": "ce.0382306A@ac-grenoble.fr",
+    "telephone": "04 74 29 45 95",
+    "adresse": "24 rue Auguste Delaune  -  Salaise-sur-SanneAcadémie"
+  },
+  {
+    "uai": "Orientales",
+    "nom_entreprise": "Greta des Pyrénées",
+    "email": "gretadespyreneesorientales@ac-montpellier.frSite WEB",
+    "telephone": "04 68 52 70 23",
+    "adresse": "Rue Charles Blanc  -  PerpignanAcadémie"
+  }
+]

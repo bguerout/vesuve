@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Entretien Demo</title>
+</head>
+<body>
+<div id="root" dir="auto"></div>
+
+<script type="text/babel">
+
+
+  async function List({ field }) {
+    let data = await fetch("https://mocki.io/v1/cbbd831b-199c-4e48-b426-1ce8ddbf1aa5");
+
+    return (
+      <div>
+        {data.map((o) => <div>{o[field]}</div>)}
+      </div>
+    );
+  }
+
+  function App() {
+    return (
+      <div>
+        <List type={"nom"} />
+      </div>
+    );
+  }
+
+  ReactDOM.render(<App />, document.getElementById('root'));
+
+
+</script>
+<script src="https://unpkg.com/react@16.13.1/umd/react.production.min.js" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@16.13.1/umd/react-dom.production.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/dataformsjs@4.0.1/js/react/jsxLoader.min.js"></script>
+</body>
+</html>
